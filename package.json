@@ -1,0 +1,8 @@
+{
+  "name": "kouisine",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "jquery": "^3.6.0"
+  }
+}
